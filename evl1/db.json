@@ -1,0 +1,31 @@
+{
+    "recipe": [
+      {
+        "title": "Biryani",
+        "ingredients": "Rice, Veggies",
+        "time": "30mi",
+        "image": "",
+        "instructions": "Cook everything.",
+        "id": 1
+      },
+      {
+        "title": "Burger",
+        "ingredients": "Potato, Buns",
+        "time": "30mi",
+        "image": "",
+        "instructions": "Go to any resturant",
+        "id": 2
+      },
+    
+      {
+        "title": "Noodles",
+        "ingredients": "Packet , Masala",
+        "time": "30min",
+        "image": "",
+        "instructions": "Cook",
+        "id": 3
+      }
+     
+    ]
+  }
+    
